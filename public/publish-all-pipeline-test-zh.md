@@ -1,9 +1,9 @@
 ---
 title: 将一篇原稿一键发布到 Zenn、Qiita、note 的测试
 tags:
-- Python
-- GitHubActions
-- 自動化
+  - Python
+  - GitHubActions
+  - 自動化
 private: true
 updated_at: ''
 id: null
