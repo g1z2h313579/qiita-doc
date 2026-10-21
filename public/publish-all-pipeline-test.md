@@ -1,12 +1,12 @@
 ---
 title: 1 本の原稿を Zenn・Qiita・note に一括公開するテスト
 tags:
-- Python
-- GitHubActions
-- 自動化
+  - Python
+  - GitHubActions
+  - 自動化
 private: true
-updated_at: ''
-id: null
+updated_at: '2026-10-21T13:27:24+09:00'
+id: e96192087dca58b5a240
 organization_url_name: null
 slide: false
 ignorePublish: false
