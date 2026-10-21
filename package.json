@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "new": "qiita new",
+    "preview": "qiita preview",
+    "pull": "qiita pull"
+  },
+  "dependencies": {
+    "@qiita/qiita-cli": "^1.11.0"
+  }
+}
