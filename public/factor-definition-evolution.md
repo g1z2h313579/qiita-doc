@@ -7,8 +7,8 @@ tags:
   - 日本株
   - 個人開発
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-10-27T10:33:07+09:00'
+id: 7e99973b65fb0032a8fb
 organization_url_name: null
 slide: false
 ignorePublish: false
