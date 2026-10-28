@@ -5,7 +5,7 @@ tags:
   - QiitaCLI
   - GitHubActions
 private: true
-updated_at: '2026-10-27T10:33:06+09:00'
+updated_at: '2026-10-28T10:22:31+09:00'
 id: ef92e9f4b46da611ea8a
 organization_url_name: null
 slide: false
