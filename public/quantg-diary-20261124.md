@@ -6,8 +6,8 @@ tags:
   - LLM
   - 開発日記
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-11-25T16:11:53+09:00'
+id: 929b3a7f7b04a26288d0
 organization_url_name: null
 slide: false
 ignorePublish: false
