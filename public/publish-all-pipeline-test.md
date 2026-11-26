@@ -5,7 +5,7 @@ tags:
   - GitHubActions
   - 自動化
 private: true
-updated_at: '2026-11-25T16:11:52+09:00'
+updated_at: '2026-11-26T16:19:55+09:00'
 id: e96192087dca58b5a240
 organization_url_name: null
 slide: false
